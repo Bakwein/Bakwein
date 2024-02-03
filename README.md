@@ -51,3 +51,7 @@
 <img src="https://raw.githubusercontent.com/Bakwein/Bakwein/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/stunca?1337Badge=off&UM6P=off" alt="stunca's 42 stats" /></a>
+
+###
