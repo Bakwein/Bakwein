@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Welcome to my Profile! I'm a Junior Software Developer. Also, I'm a student at Kocaeli University Computer Engineering and 42 Kocaeli.</p>
+<p align="left" >👋Welcome to my Profile! <br>👨‍💻I'm a Junior Software Developer. <br>📚I'm a student at Kocaeli University Computer Engineering and 42 Kocaeli.</p>
 
 ###
 
