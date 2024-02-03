@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 Welcome to my profile!</h1>
+![Header](./your-header-image-name.png)
 
 ###
 
-<p align="left">My name is Sefa and I'm a Junior Software Developer. Also, I'm a student at Kocaeli University Computer Engineering and 42 Kocaeli.</p>
+<p align="left">Welcome to my Profile! I'm a Junior Software Developer. Also, I'm a student at Kocaeli University Computer Engineering and 42 Kocaeli.</p>
 
 ###
 
@@ -48,10 +48,10 @@
 
 ###
 
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/stunca?1337Badge=off&UM6P=off" alt="stunca's 42 stats" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Bakwein)](https://git.io/streak-stats)
 
 ###
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Bakwein)](https://git.io/streak-stats)
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/stunca?1337Badge=off&UM6P=off" alt="stunca's 42 stats" /></a>
 
 ###
