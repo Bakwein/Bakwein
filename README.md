@@ -48,10 +48,6 @@
 
 ###
 
-![](https://komarev.com/ghpvc/?username=bakwein&color=red)
-
-###
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Bakwein)](https://git.io/streak-stats)
 
 ###
@@ -59,3 +55,9 @@
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/stunca?1337Badge=off&UM6P=off" alt="stunca's 42 stats" /></a>
 
 ###
+
+![](https://komarev.com/ghpvc/?username=bakwein&color=red)
+
+###
+
+
