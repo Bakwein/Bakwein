@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left" >👋Welcome to my Profile!<br>📚I'm a student at Kocaeli University Computer Engineering & Ecole 42 Kocaeli.</p>
+<p align="left" >👋Welcome to my Profile!<br>📚Student at Kocaeli University Computer Engineering & Ecole 42 Kocaeli.</p>
 
 ###
 
