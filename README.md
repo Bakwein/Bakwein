@@ -2,10 +2,6 @@
 
 ###
 
-<p align="left" >👋Welcome to my Profile!<br>📚Student at Kocaeli University Computer Engineering & Ecole 42 Kocaeli.</p>
-
-###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/ssefa-tunca-818a11258/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
